@@ -38,4 +38,12 @@ s.no|name
 - [x] No
 - [ ] \(optional)choice
 
+- Food
+- Party
+
+Gagana:+1:
+
+Hi:cherry_blossom:
+
+
 
