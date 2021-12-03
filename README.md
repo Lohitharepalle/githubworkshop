@@ -10,4 +10,15 @@
 **Bold letters**
 
 ***Itallic and bold font***
+
 ~~this is strike through statement~~
+
+* Subjects
+  * DMS
+  * OS
+  * Java
+  * DS
+1. Vegetables
+  1. Potato
+  2. Carrot
+  3. Tomato
