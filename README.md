@@ -34,7 +34,8 @@ s.no|name
 3|Ammu
 4|Srinivas
 
- [x] Yes
- [x] No
+- [x] Yes
+- [x] No
+- [ ] \(optional)choice
 
 
