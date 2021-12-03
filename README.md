@@ -34,3 +34,6 @@ s.no|name
 3|Ammu
 4|Srinivas
 
+[] Yes
+[] No
+
